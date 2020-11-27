@@ -20,3 +20,5 @@
   
   
 </details>
+
+***please only use this to experiment and do not use this maliciously. I take no responsibility for what you do with this!***
